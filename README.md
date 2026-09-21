@@ -1,6 +1,5 @@
 # STORMax0
 STORMax0 — Windows Performance Center | Projeto criado por Heitor Magalhães Serpa
-STORMax0
 
 Windows Performance Center
 
